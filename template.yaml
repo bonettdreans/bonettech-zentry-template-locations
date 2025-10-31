@@ -1,0 +1,68 @@
+# ============================================
+# TEMPLATE LOCATIONS - BONETTTECH (GITHUB)
+# Registro de templates disponíveis no Backstage
+# ============================================
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: software-templates
+  title: Software Templates
+  description: Catálogo de templates para criação de novos projetos
+  tags:
+    - templates
+    - scaffolder
+    - github
+spec:
+  type: url
+  targets:
+    # ============================================
+    # BACKEND TEMPLATES
+    # ============================================
+    
+    # Node.js
+    
+    # ============================================
+    # FRONTEND TEMPLATES
+    # ============================================
+
+    #React
+    - https://github.com/bonett-labs/software-templates/blob/main/scaffolder-templates/create-react-app/template.yaml
+   
+    
+    # ============================================
+    # MOBILE NATIVE TEMPLATES
+    # ============================================
+    
+    
+    # ============================================
+    # DATA & ML TEMPLATES
+    # ============================================
+    
+    
+    
+    # ============================================
+    # BLOCKCHAIN TEMPLATES
+    # ============================================
+
+    
+    # ============================================
+    # INFRASTRUCTURE TEMPLATES
+    # ============================================
+    
+  
+    
+    # ============================================
+    # LIBRARY TEMPLATES
+    # ============================================
+ 
+    # ============================================
+    # DOCUMENTATION TEMPLATES
+    # ============================================
+
+    
+    # ============================================
+    # CI/CD TEMPLATES
+    # ============================================
+    
