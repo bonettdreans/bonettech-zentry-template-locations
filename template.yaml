@@ -50,7 +50,7 @@ spec:
     # ============================================
     # INFRASTRUCTURE TEMPLATES
     # ============================================
-    
+    - https://github.com/bonettdreans/template-infra-role-service/blob/main/template.yaml
   
     
     # ============================================
