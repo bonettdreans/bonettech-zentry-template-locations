@@ -60,7 +60,7 @@ spec:
     # ============================================
     # DOCUMENTATION TEMPLATES
     # ============================================
-
+    - https://github.com/bonett-labs/software-templates/blob/main/scaffolder-templates/docs-template/template.yaml
     
     # ============================================
     # CI/CD TEMPLATES
