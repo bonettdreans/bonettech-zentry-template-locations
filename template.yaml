@@ -52,6 +52,7 @@ spec:
     # ============================================
     - https://github.com/bonettdreans/template-infra-role-service/blob/main/template.yaml
     - https://github.com/bonettdreans/template-infra-policy-service/blob/main/template.yaml
+    - https://github.com/bonettdreans/template-infra-s3/blob/main/template.yaml
     
     # ============================================
     # LIBRARY TEMPLATES
